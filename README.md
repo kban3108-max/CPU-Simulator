@@ -1,2 +1,2 @@
-# CPU-Simulator
-A simple CPU emulator made in C#
+#CPU-Simulator
+A Simple CPU Simulator Made In C#
