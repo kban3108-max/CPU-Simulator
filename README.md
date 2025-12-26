@@ -20,4 +20,4 @@ how to use tutorial 3:
 3. compile it alongside your main file
 4. enjoy
 
-Warning: currently the source code is optimized for the android filesystem soon I'll add more versions but for now you can rewrite the file IO segments for OS'es.
+Warning: currently the source code is optimized for the android filesystem soon I'll add more versions but for now you can rewrite the file IO segments for operating systems.
