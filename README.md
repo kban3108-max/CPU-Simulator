@@ -11,7 +11,7 @@ how to use tutorial 2:
 
 1. install the source
 2. copy into IDE of choice
-3. run or modify the paths to match your os (I'll do it soon trust) then run
+3. run or modify the paths to match your OS (I'll do it soon trust) then run
 4. enjoy
 how to use tutorial 3:
 
@@ -20,4 +20,4 @@ how to use tutorial 3:
 3. compile it alongside your main file
 4. enjoy
 
-Warning: currently the source code is optimized for the android filesystem soon I'll add more versions but for now you can rewrite the file IO segments for other operating systems
+Warning: currently the source code is optimized for the android filesystem soon I'll add more versions but for now you can rewrite the file IO segments for OS'es.
