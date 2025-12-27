@@ -21,3 +21,5 @@ how to use tutorial 3:
 4. enjoy
 
 Warning: currently the source code is optimized for the android filesystem soon I'll add more versions but for now you can rewrite the file IO segments for operating systems.
+
+License: [LICENSE](LICENSE)
