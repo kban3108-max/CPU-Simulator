@@ -19,6 +19,7 @@ A Simple CPU Simulator Made In C#
 1. install the DLL
 2. put it in the same folder as your main file
 3. in your main file put these lines of code:
+using CPU; // put this at the top of the file
 CPUIns CI = new CPUIns();
 CI.RUN();
 5. compile it alongside your main file using the flag '-r:./simplecpu.dll'
