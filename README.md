@@ -9,10 +9,12 @@ A Simple CPU Simulator Made In C#
 
 ## how to use tutorial 2:
 
-1. install the source [here](https://raw.githubusercontent.com/kban3108-max/CPU-Simulator/main/src/simplecpu.cs)
-2. copy into IDE of choice
-3. run or modify the paths to match your OS (I'll do it soon trust) then run
-4. enjoy
+1. install the source as ZIP [here](https://github.com/kban3108-max/CPU-Simulator/archive/refs/tags/SimpleCPU.zip)
+2. extract it
+3. get the simplecpu.cs file from it
+4. open in your IDE of choice
+5. run or modify the paths to match your OS (I'll do it soon trust) then run
+6. enjoy
 
 ## how to use tutorial 3:
 
